@@ -62,3 +62,12 @@ via the `UID` and `GID` environment variables like described above.
 ### Wrong timestamp
 If you need timestamps in your local timezone you should mount `/etc/timezone:/etc/timezone:ro` and `/etc/localtime:/etc/localtime:ro`
 like it's done in the [docker-compose.yml](docker-compose.yml).
+
+
+# Easy Breezy AC 
+
+Easy Breezy AC is a family owned and operated company in the Tampa Bay area since 2009.  Easy Breezy AC serves Pinellas, Pasco, Hillsborough, and Hernando Counties.
+Easy Breezy AC is a Paperless and Cloud-based HVAC company. Easy Breezy specializes in eco-friendly, high efficiency AC Repair, AC Service, AC Maintenance, and AC Installation. 
+
+More trees and less pollution since 2009.
+Life's Hard. Comfort's Not.
